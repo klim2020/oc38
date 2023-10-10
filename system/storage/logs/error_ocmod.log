@@ -1,0 +1,415 @@
+2023-10-08 8:00:13 - 
+ERROR: CODE NOT FOUND!
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig\Loader\ArrayLoader(array($filename . '.twig' => $code));
+MOD: LIVEOPENCART: OCMod and Twig Fix for 3.0.3.5(6) Refresh twice!
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/advertise/google.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/credit_card/squareup.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/feed/google_base.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/fraud/fraudlabspro.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/fraud/ip.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/fraud/maxmind.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/module/amazon_login.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/module/laybuy_layout.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/module/manufacturers_slider.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/module/paypal_smart_button.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/alipay.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/alipay_cross.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/amazon_login_pay.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/authorizenet_aim.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/authorizenet_sim.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/bank_transfer.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/bluepay_hosted.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/bluepay_redirect.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/cardconnect.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/cardinity.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/cheque.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/cod.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/divido.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/eway.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/free_checkout.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/g2apay.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/klarna_account.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/klarna_checkout.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/klarna_invoice.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/laybuy.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/liqpay.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/nochex.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/paymate.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/paypal.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/paypoint.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/payza.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/perpetual_payments.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/pilibaba.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/pp_braintree.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/pp_express.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/pp_payflow.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/pp_payflow_iframe.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/pp_pro.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/pp_pro_iframe.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/pp_standard.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/sagepay_direct.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/sagepay_server.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/sagepay_us.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/securetrading_pp.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/securetrading_ws.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/skrill.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/squareup.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/twocheckout.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/web_payment_software.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/wechat_pay.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/payment/worldpay.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/auspost.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/ec_ship.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/fedex.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/flat.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/free.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/item.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/parcelforce_48.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/pickup.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/pilibaba.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/qweqr.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/royal_mail.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/ups.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/usps.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/shipping/weight.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/coupon.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/credit.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/handling.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/klarna_fee.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/low_order_fee.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/reward.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/shipping.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/sub_total.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/tax.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/total.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/voucher.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/model/extension/total/voucher_theme.php
+CODE: /^(.*INSERT.*order_history.*order_status_id.*=.*(\$order_status_id)\s.*)$/mU
+MOD: QwQer Shipping service module
