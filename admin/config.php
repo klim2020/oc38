@@ -6,19 +6,19 @@
 //define('HTTPS_SERVER', 'http://localhost:8071/oc38/admin/');
 //define('HTTPS_CATALOG', 'http://localhost:8071/oc38/');
 
-define('HTTP_SERVER', 'http://right-comic-starling.ngrok-free.app/oc38/admin/');
-define('HTTP_CATALOG', 'http://right-comic-starling.ngrok-free.app/oc38/');
+define('HTTP_SERVER', 'http://right-comic-starling.ngrok-free.app/admin/');
+define('HTTP_CATALOG', 'http://right-comic-starling.ngrok-free.app/');
 
 // HTTPS
-define('HTTPS_SERVER', 'https://right-comic-starling.ngrok-free.app/oc38/admin/');
-define('HTTPS_CATALOG', 'https://right-comic-starling.ngrok-free.app/oc38/');
+define('HTTPS_SERVER', 'https://right-comic-starling.ngrok-free.app/admin/');
+define('HTTPS_CATALOG', 'https://right-comic-starling.ngrok-free.app/');
 
 // DIR
-define('DIR_APPLICATION', '/var/www/html/oc38/admin/');
-define('DIR_SYSTEM', '/var/www/html/oc38/system/');
-define('DIR_IMAGE', '/var/www/html/oc38/image/');
+define('DIR_APPLICATION', '/var/www/html/admin/');
+define('DIR_SYSTEM', '/var/www/html/system/');
+define('DIR_IMAGE', '/var/www/html/image/');
 define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
-define('DIR_CATALOG', '/var/www/html/oc38/catalog/');
+define('DIR_CATALOG', '/var/www/html/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
